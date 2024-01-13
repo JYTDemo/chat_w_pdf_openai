@@ -1,0 +1,12 @@
+langchain 
+openai 
+pandas
+tabulate
+python-dotenv
+openpyxl
+streamlit
+pandasai
+pypdf
+tiktoken
+sentence-transformers
+faiss-cpu
